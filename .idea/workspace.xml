@@ -4,83 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16bec533-804d-45b4-aefa-84bd3d4e1f70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C01_WebDriverManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C02_Junit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C03_JUnitAnnotations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C04_BeforeClassAfterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C05_AssertionMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C06_AssertionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C07_Locators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C08_Xpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C09_WebElementCommands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C10_LocatorPractise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C11_LocatorPractise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C12_LocatorPractise3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C13_AbsoluteRelative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C14_DynamicXpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C15_CSSSelector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C16_RelativeLocator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C17_ChromeOptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C18_Checkboxes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C19_RadioButtons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C20_Faker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C21_DropDown1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C22_DropDown2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C23_DropDown3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C24_Waits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C25_SeleniumWaits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C26_Alert1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C27_Alert2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C28_BasicAuthentication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C29_Iframe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C30_SendKeys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C31_Clear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C32_TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C33_WindowHandle1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C34_WindowHandle2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C35_WindowHandle3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C36_Actions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C37_MouseActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C38_DragAndDropByHorizontal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C39_DragAndDropByVertical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C40_HoverOver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C41_KeyboardActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C42_ScrollActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C43_JavascriptExecuter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C44_RobotClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C45_Cookies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CH3CodeChallange/Day2/C010Alerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CH3CodeChallange/Day2/C011BasicAuthentication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CH3CodeChallange/Day2/C012Iframe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CH3CodeChallange/Day2/C06Xpath_AxesLocators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CH3CodeChallange/Day2/C07Faker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CH3CodeChallange/Day2/C08DropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CH3CodeChallange/Day2/C09Waits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CH3CodeChallange/Day2/C0ExpectedConditions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CH3CodeChallange/day01/CC02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CH3CodeChallange/day01/CC03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CH3CodeChallange/day01/CC04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CH3CodeChallange/day01/CC05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CH3CodeChallange/day01/CCHW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HomeWorks/HMW01_Locators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HomeWorks/HMW02_Locators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HomeWorks/HMW03_AbsoluteRelativeXpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HomeWorks/HMW04_CheckBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HomeWorks/HMW05_RadioButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HomeWorks/HMW06_DropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HomeWorks/HMW08_Alert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HomeWorks/HMW09_Iframe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/JavascriptUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
+    <list default="true" id="16bec533-804d-45b4-aefa-84bd3d4e1f70" name="Changes" comment="selenium">
+      <change afterPath="$PROJECT_DIR$/FileExist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C46_FilesInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C47_FileExist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C48_FileDownload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C49_FileUpload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C50_ApachePoiReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C51_ApachePoiGetData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C52_WriteExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CH3CodeChallange/Day3/C013WindowHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CH3CodeChallange/Day3/C014DragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CH3CodeChallange/Day3/C015HoverOver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CH3CodeChallange/Day3/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomeWorks/HMW10_WindowHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomeWorks/HMW11_WindowHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomeWorks/HMW12_WindowHandle_Hepsiburada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomeWorks/HMW13_MouseActionClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomeWorks/HMW14_KeyboardActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/excelData .xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/excelfile.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C45_Cookies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C45_Cookies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HomeWorks/HMW01_Locators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomeWorks/HMW01_Locators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,61 +50,73 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/alig9/IdeaProjects/FirstSeleniumProfessionaL/src/test/resources"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alig9\IdeaProjects\FirstSeleniumProfessionaL\src\test\resources" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.C44_RobotClass.test1">
-    <configuration name="C38_DragAndDropByHorizontal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C50_ApachePoiReadExcel.readExcel">
+    <configuration name="C46_FilesInfo.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FirstSeleniumProfessionaL" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="C38_DragAndDropByHorizontal" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C42_ScrollActions.scrollArrowUpDown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FirstSeleniumProfessionaL" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="C42_ScrollActions" />
-      <option name="METHOD_NAME" value="scrollArrowUpDown" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C42_ScrollActions.scrollPageUpDown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FirstSeleniumProfessionaL" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="C42_ScrollActions" />
-      <option name="METHOD_NAME" value="scrollPageUpDown" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C44_RobotClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FirstSeleniumProfessionaL" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="C44_RobotClass" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C44_RobotClass.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FirstSeleniumProfessionaL" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="C44_RobotClass" />
+      <option name="MAIN_CLASS_NAME" value="C46_FilesInfo" />
       <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C47_FileExist.fileExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FirstSeleniumProfessionaL" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="C47_FileExist" />
+      <option name="METHOD_NAME" value="fileExist" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C48_FileDownload.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FirstSeleniumProfessionaL" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="C48_FileDownload" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C50_ApachePoiReadExcel.readExcel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FirstSeleniumProfessionaL" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="C50_ApachePoiReadExcel" />
+      <option name="METHOD_NAME" value="readExcel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HMW12_WindowHandle_Hepsiburada.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FirstSeleniumProfessionaL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWorks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="HomeWorks" />
+      <option name="MAIN_CLASS_NAME" value="HomeWorks.HMW12_WindowHandle_Hepsiburada" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -165,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C44_RobotClass.test1" />
-        <item itemvalue="JUnit.C44_RobotClass" />
-        <item itemvalue="JUnit.C42_ScrollActions.scrollArrowUpDown" />
-        <item itemvalue="JUnit.C42_ScrollActions.scrollPageUpDown" />
-        <item itemvalue="JUnit.C38_DragAndDropByHorizontal" />
+        <item itemvalue="JUnit.C50_ApachePoiReadExcel.readExcel" />
+        <item itemvalue="JUnit.HMW12_WindowHandle_Hepsiburada.test" />
+        <item itemvalue="JUnit.C48_FileDownload.test1" />
+        <item itemvalue="JUnit.C47_FileExist.fileExist" />
+        <item itemvalue="JUnit.C46_FilesInfo.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -182,6 +141,43 @@
       <option name="presentableId" value="Default" />
       <updated>1697144614635</updated>
     </task>
+    <task id="LOCAL-00001" summary="selenium">
+      <created>1698265745002</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698265745002</updated>
+    </task>
+    <task id="LOCAL-00002" summary="selenium">
+      <created>1698265757885</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698265757885</updated>
+    </task>
+    <task id="LOCAL-00003" summary="selenium">
+      <created>1698265919378</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698265919378</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="selenium" />
+    <option name="LAST_COMMIT_MESSAGE" value="selenium" />
   </component>
 </project>
