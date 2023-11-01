@@ -5,29 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16bec533-804d-45b4-aefa-84bd3d4e1f70" name="Changes" comment="selenium">
-      <change afterPath="$PROJECT_DIR$/FileExist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C46_FilesInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C47_FileExist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C48_FileDownload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C49_FileUpload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C50_ApachePoiReadExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C51_ApachePoiGetData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C52_WriteExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CH3CodeChallange/Day3/C013WindowHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CH3CodeChallange/Day3/C014DragAndDrop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CH3CodeChallange/Day3/C015HoverOver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CH3CodeChallange/Day3/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HomeWorks/HMW10_WindowHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HomeWorks/HMW11_WindowHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HomeWorks/HMW12_WindowHandle_Hepsiburada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HomeWorks/HMW13_MouseActionClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HomeWorks/HMW14_KeyboardActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/excelData .xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/excelfile.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C53_ScreenShot1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C54_ScreenShot2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C55_WebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C56_Log4j.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C57_Log4j_UseProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C58_Log4j.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C59_SeleniumExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C60_UseExtentReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseReport.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/C45_Cookies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C45_Cookies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HomeWorks/HMW01_Locators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomeWorks/HMW01_Locators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C52_WriteExcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C52_WriteExcel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +40,13 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/alig9/IdeaProjects/FirstSeleniumProfessionaL/src/test/resources"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alig9/IdeaProjects/FirstSeleniumProfessionaL/src/test/resources&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\alig9\IdeaProjects\FirstSeleniumProfessionaL\src\test\resources" />
@@ -65,58 +55,46 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.C50_ApachePoiReadExcel.readExcel">
-    <configuration name="C46_FilesInfo.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C60_UseExtentReport.useExtentReport">
+    <configuration name="C56_Log4j" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C56_Log4j" />
+      <module name="FirstSeleniumProfessionaL" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C57_Log4j_UseProperties" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C57_Log4j_UseProperties" />
+      <module name="FirstSeleniumProfessionaL" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C53_ScreenShot1.takeSpesificWEScreenShot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FirstSeleniumProfessionaL" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="C46_FilesInfo" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="MAIN_CLASS_NAME" value="C53_ScreenShot1" />
+      <option name="METHOD_NAME" value="takeSpesificWEScreenShot" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C47_FileExist.fileExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C58_Log4j.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FirstSeleniumProfessionaL" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="C47_FileExist" />
-      <option name="METHOD_NAME" value="fileExist" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C48_FileDownload.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FirstSeleniumProfessionaL" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="C48_FileDownload" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C50_ApachePoiReadExcel.readExcel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FirstSeleniumProfessionaL" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="C50_ApachePoiReadExcel" />
-      <option name="METHOD_NAME" value="readExcel" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HMW12_WindowHandle_Hepsiburada.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FirstSeleniumProfessionaL" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HomeWorks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="HomeWorks" />
-      <option name="MAIN_CLASS_NAME" value="HomeWorks.HMW12_WindowHandle_Hepsiburada" />
+      <option name="MAIN_CLASS_NAME" value="C58_Log4j" />
       <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C60_UseExtentReport.useExtentReport" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FirstSeleniumProfessionaL" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="C60_UseExtentReport" />
+      <option name="METHOD_NAME" value="useExtentReport" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -124,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C50_ApachePoiReadExcel.readExcel" />
-        <item itemvalue="JUnit.HMW12_WindowHandle_Hepsiburada.test" />
-        <item itemvalue="JUnit.C48_FileDownload.test1" />
-        <item itemvalue="JUnit.C47_FileExist.fileExist" />
-        <item itemvalue="JUnit.C46_FilesInfo.test1" />
+        <item itemvalue="JUnit.C60_UseExtentReport.useExtentReport" />
+        <item itemvalue="JUnit.C58_Log4j.test" />
+        <item itemvalue="Application.C57_Log4j_UseProperties" />
+        <item itemvalue="Application.C56_Log4j" />
+        <item itemvalue="JUnit.C53_ScreenShot1.takeSpesificWEScreenShot" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698265919378</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="selenium">
+      <created>1698700510812</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698700510812</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
