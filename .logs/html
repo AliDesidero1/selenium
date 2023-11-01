@@ -1,0 +1,303 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application logs</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Wed Nov 01 18:22:35 GMT 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="C57_Log4j_UseProperties category">C57_Log4j_UseProperties</td>
+<td>C57_Log4j_UseProperties.java:13</td>
+<td title="Message">bu bir info mesajidir</td>
+</tr>
+
+<tr>
+<td>4</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#993300"><strong>WARN</strong></font></td>
+<td title="C57_Log4j_UseProperties category">C57_Log4j_UseProperties</td>
+<td>C57_Log4j_UseProperties.java:14</td>
+<td title="Message">bu bir warn mesajidir</td>
+</tr>
+
+<tr>
+<td>4</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#993300"><strong>ERROR</strong></font></td>
+<td title="C57_Log4j_UseProperties category">C57_Log4j_UseProperties</td>
+<td>C57_Log4j_UseProperties.java:15</td>
+<td title="Message">bu bir error mesajidir</td>
+</tr>
+
+<tr>
+<td>4</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#993300"><strong>FATAL</strong></font></td>
+<td title="C57_Log4j_UseProperties category">C57_Log4j_UseProperties</td>
+<td>C57_Log4j_UseProperties.java:16</td>
+<td title="Message">bu bir fatal mesajidir</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application logs</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Wed Nov 01 18:24:18 GMT 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="C57_Log4j_UseProperties category">C57_Log4j_UseProperties</td>
+<td>C57_Log4j_UseProperties.java:12</td>
+<td title="Message">bu bir debug mesajidir</td>
+</tr>
+
+<tr>
+<td>7</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="C57_Log4j_UseProperties category">C57_Log4j_UseProperties</td>
+<td>C57_Log4j_UseProperties.java:13</td>
+<td title="Message">bu bir info mesajidir</td>
+</tr>
+
+<tr>
+<td>8</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#993300"><strong>WARN</strong></font></td>
+<td title="C57_Log4j_UseProperties category">C57_Log4j_UseProperties</td>
+<td>C57_Log4j_UseProperties.java:14</td>
+<td title="Message">bu bir warn mesajidir</td>
+</tr>
+
+<tr>
+<td>8</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#993300"><strong>ERROR</strong></font></td>
+<td title="C57_Log4j_UseProperties category">C57_Log4j_UseProperties</td>
+<td>C57_Log4j_UseProperties.java:15</td>
+<td title="Message">bu bir error mesajidir</td>
+</tr>
+
+<tr>
+<td>8</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#993300"><strong>FATAL</strong></font></td>
+<td title="C57_Log4j_UseProperties category">C57_Log4j_UseProperties</td>
+<td>C57_Log4j_UseProperties.java:16</td>
+<td title="Message">bu bir fatal mesajidir</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application logs</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Wed Nov 01 18:52:33 GMT 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="C58_Log4j category">C58_Log4j</td>
+<td>C58_Log4j.java:27</td>
+<td title="Message">Go to URL</td>
+</tr>
+
+<tr>
+<td>4897</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="C58_Log4j category">C58_Log4j</td>
+<td>C58_Log4j.java:29</td>
+<td title="Message">website is opened..</td>
+</tr>
+
+<tr>
+<td>4897</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="C58_Log4j category">C58_Log4j</td>
+<td>C58_Log4j.java:31</td>
+<td title="Message">Entering weight</td>
+</tr>
+
+<tr>
+<td>5016</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="C58_Log4j category">C58_Log4j</td>
+<td>C58_Log4j.java:35</td>
+<td title="Message">Selecting kilograms</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application logs</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Wed Nov 01 19:10:02 GMT 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="C58_Log4j category">C58_Log4j</td>
+<td>C58_Log4j.java:27</td>
+<td title="Message">Go to URL</td>
+</tr>
+
+<tr>
+<td>3644</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="C58_Log4j category">C58_Log4j</td>
+<td>C58_Log4j.java:29</td>
+<td title="Message">website is opened..</td>
+</tr>
+
+<tr>
+<td>3646</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="C58_Log4j category">C58_Log4j</td>
+<td>C58_Log4j.java:31</td>
+<td title="Message">Entering weight</td>
+</tr>
+
+<tr>
+<td>3764</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="C58_Log4j category">C58_Log4j</td>
+<td>C58_Log4j.java:35</td>
+<td title="Message">Selecting kilograms</td>
+</tr>
+
+<tr>
+<td>3824</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="C58_Log4j category">C58_Log4j</td>
+<td>C58_Log4j.java:38</td>
+<td title="Message">Selecting height in feet</td>
+</tr>
+
+<tr>
+<td>3880</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="C58_Log4j category">C58_Log4j</td>
+<td>C58_Log4j.java:41</td>
+<td title="Message">Selecting height in inches</td>
+</tr>
+
+<tr>
+<td>3940</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="C58_Log4j category">C58_Log4j</td>
+<td>C58_Log4j.java:44</td>
+<td title="Message">Clicking on calculate</td>
+</tr>
+
+<tr>
+<td>4018</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="C58_Log4j category">C58_Log4j</td>
+<td>C58_Log4j.java:47</td>
+<td title="Message">Getting SIUnit value</td>
+</tr>
+
+<tr>
+<td>4066</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="C58_Log4j category">C58_Log4j</td>
+<td>C58_Log4j.java:50</td>
+<td title="Message">Getting USUnit value</td>
+</tr>
+
+<tr>
+<td>4118</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="C58_Log4j category">C58_Log4j</td>
+<td>C58_Log4j.java:53</td>
+<td title="Message">Getting UKUnit value</td>
+</tr>

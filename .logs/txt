@@ -1,0 +1,23 @@
+2023-11-01 18:22:35 INFO  C57_Log4j_UseProperties:13 - bu bir info mesajidir
+2023-11-01 18:22:35 WARN  C57_Log4j_UseProperties:14 - bu bir warn mesajidir
+2023-11-01 18:22:35 ERROR C57_Log4j_UseProperties:15 - bu bir error mesajidir
+2023-11-01 18:22:35 FATAL C57_Log4j_UseProperties:16 - bu bir fatal mesajidir
+2023-11-01 18:24:18 DEBUG C57_Log4j_UseProperties:12 - bu bir debug mesajidir
+2023-11-01 18:24:18 INFO  C57_Log4j_UseProperties:13 - bu bir info mesajidir
+2023-11-01 18:24:18 WARN  C57_Log4j_UseProperties:14 - bu bir warn mesajidir
+2023-11-01 18:24:18 ERROR C57_Log4j_UseProperties:15 - bu bir error mesajidir
+2023-11-01 18:24:18 FATAL C57_Log4j_UseProperties:16 - bu bir fatal mesajidir
+2023-11-01 18:52:33 INFO  C58_Log4j:27 - Go to URL
+2023-11-01 18:52:38 INFO  C58_Log4j:29 - website is opened..
+2023-11-01 18:52:38 INFO  C58_Log4j:31 - Entering weight
+2023-11-01 18:52:38 INFO  C58_Log4j:35 - Selecting kilograms
+2023-11-01 19:10:03 INFO  C58_Log4j:27 - Go to URL
+2023-11-01 19:10:06 INFO  C58_Log4j:29 - website is opened..
+2023-11-01 19:10:06 INFO  C58_Log4j:31 - Entering weight
+2023-11-01 19:10:06 INFO  C58_Log4j:35 - Selecting kilograms
+2023-11-01 19:10:06 INFO  C58_Log4j:38 - Selecting height in feet
+2023-11-01 19:10:06 INFO  C58_Log4j:41 - Selecting height in inches
+2023-11-01 19:10:06 INFO  C58_Log4j:44 - Clicking on calculate
+2023-11-01 19:10:07 INFO  C58_Log4j:47 - Getting SIUnit value
+2023-11-01 19:10:07 INFO  C58_Log4j:50 - Getting USUnit value
+2023-11-01 19:10:07 INFO  C58_Log4j:53 - Getting UKUnit value
